@@ -1,7 +1,7 @@
 val spotifyRdd = sc.textFile("*.csv")   //Reading the textFile
 
-val head = spotifyRdd.first
-val spotify_data = spotifyRdd.filter(r => r != head)
+val head = spotifyRdd.first            // Getting the header names
+val spotify_data = spotifyRdd.filter(r => r != head) // removing the headers from the data
 spotify_data.toDF.show(10)                // displaying the contents
 
 /*+--------------------+
