@@ -3,7 +3,7 @@ A Scala implementation
 
 ## Introduction 
 
-As a part of one of our courses ; Big Data Analytics, we have completed a project in which we have analysed the various features such as danceability,popularity and valence.
+As a part of one of our courses ; Big Data Analytics, we have completed a project in which we have analysed the various features of a Spotify dataset such as danceability,popularity and valence. We have implemented this using Spark which is an open-source, distributed processing system which is used for big data workloads. It utilizes a technique called 'memory caching' in which computer applications temporarily store data in a computer's main memory (RAM) and optimized query execution for fast queries against data of any size. Simply put, Spark is a fast and general engine for large-scale data processing.
 
 In this project, we have focussed majorly on the following four decades:
 
@@ -21,4 +21,4 @@ We are mainly interested in analysing how people’s taste in music has evolved 
 
 ## Dataset Overview
 
-This dataset contains more than 25 lakh songs collected from Spotify Web API. The features include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020.
+This dataset contains more than 25 lakh songs collected from Spotify Web API. The features, as mentioned above include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020.
