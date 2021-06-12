@@ -94,7 +94,7 @@ Correlation is a statistic that measures the degree to which two variables move 
 
 **Pearson’s Correlation Coefficient formula:**
 
-![image](https://user-images.githubusercontent.com/65705774/121777686-0052ac00-cbb1-11eb-91e0-03f8e5788da6.png)
+![image](https://user-images.githubusercontent.com/65705774/121777831-aa323880-cbb1-11eb-9cc7-71a65e2583f2.png)
 
 ##### 8.1 ENERGY AND LOUDNESS
 
