@@ -14,6 +14,8 @@ In this project, we have focussed majorly on the following four decades:
 Early 2ks : 2000-2010
 
 Late 2ks : 2010 to present date
+
+
 ![image](https://user-images.githubusercontent.com/65705774/121775681-b8c72280-cba6-11eb-919a-4fcbba0cb5ef.png)
 
 We are mainly interested in analysing how people’s taste in music has evolved over these decades.
