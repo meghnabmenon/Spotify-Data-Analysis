@@ -39,3 +39,12 @@ As we can clearly see there is almost two times increase in the number of songs 
 
 #### Conclusion : 
 It is observed that the popularity of the artists has slightly influenced the popularity of the songs during the first three decades. Surprisingly the percentage of songs from unpopular artists that became popular is very high during this current decade. Therefore we can safely conclude that the current generation’s likes and dislikes depend on the quality of the content and not just mere popularity of the artists.
+
+#### 3. Popularity over the decades:
+
+![image](https://user-images.githubusercontent.com/65705774/121776643-a13e6880-cbab-11eb-912f-539efbb78ef7.png)
+
+#### Conclusion : 
+We can clearly see that there is a very clear and gradual increase in the number of songs that became popular as the decades progress. This can also mean that the number of Spotify listeners has grown significantly over the years.
+
+
