@@ -24,3 +24,12 @@ We are mainly interested in analysing how people’s taste in music has evolved 
 ## Dataset Overview
 
 This dataset contains more than 25 lakh songs collected from Spotify Web API. The features, as mentioned above include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020.
+
+## Analysis
+### Number of songs that got released in each decade 
+
+![image](https://user-images.githubusercontent.com/65705774/121775789-4c005800-cba7-11eb-9cac-8ab021e9b8be.png)
+
+Conclusion : 
+As we can clearly see there is almost two times increase in the number of songs that has been released in the last decade to the previous decades
+
