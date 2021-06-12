@@ -16,10 +16,9 @@ Early 2ks : 2000-2010
 Late 2ks : 2010 to present date
 
 
-![image](https://user-images.githubusercontent.com/65705774/121775681-b8c72280-cba6-11eb-919a-4fcbba0cb5ef.png)
+![image](https://user-images.githubusercontent.com/65705774/121775701-d7c5b480-cba6-11eb-8505-72f4a812efdd.png)
 
 We are mainly interested in analysing how people’s taste in music has evolved over these decades.
-
 
 
 ## Dataset Overview
