@@ -26,15 +26,16 @@ We are mainly interested in analysing how people’s taste in music has evolved 
 This dataset contains more than 25 lakh songs collected from Spotify Web API. The features, as mentioned above include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020.
 
 ## Analysis
-### Number of songs that got released in each decade:
+### 1. Number of songs that got released in each decade:
 
 ![image](https://user-images.githubusercontent.com/65705774/121775789-4c005800-cba7-11eb-9cac-8ab021e9b8be.png)
 
 #### Conclusion : 
 As we can clearly see there is almost two times increase in the number of songs that has been released in the last decade to the previous decades
 
-### Relation Between the Popularity of the Artists and the Popularity of their song:
+### 2. Relation Between the Popularity of the Artists and the Popularity of their song:
 
 ![image](https://user-images.githubusercontent.com/65705774/121775879-a00b3c80-cba7-11eb-9452-a6fdb5f1a6e1.png)
 
-#### Conclusion : It is observed that the popularity of the artists has slightly influenced the popularity of the songs during the first three decades. Surprisingly the percentage of songs from unpopular artists that became popular is very high during this current decade. Therefore we can safely conclude that the current generation’s likes and dislikes depend on the quality of the content and not just mere popularity of the artists.
+#### Conclusion : 
+It is observed that the popularity of the artists has slightly influenced the popularity of the songs during the first three decades. Surprisingly the percentage of songs from unpopular artists that became popular is very high during this current decade. Therefore we can safely conclude that the current generation’s likes and dislikes depend on the quality of the content and not just mere popularity of the artists.
