@@ -23,7 +23,7 @@ We are mainly interested in analysing how people’s taste in music has evolved 
 
 ## Dataset Overview
 
-This dataset contains more than 25 lakh songs collected from Spotify Web API. The features, as mentioned above include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020.
+This dataset contains more than 25 lakh songs collected from Spotify Web API. The features, as mentioned above include song, artist, release date as well as some characteristics of song such as acousticness, danceability, loudness, tempo and so on. The date ranges from 1921 to 2020. The features and what they indicate are briefly explained as and when they are required along this readme file.
 
 ## Analysis
 ### 1. Number of songs that got released in each decade:
@@ -67,5 +67,16 @@ Predicts whether a track contains no vocals. The closer the instrumentalness val
 #### Conclusion : 	
 In all the four decades the Spotify listeners have distinctly preferred vocal songs over instrumental music. This information is clearly seen as almost ten times of instrumental song listeners listen to vocal songs.
 
+#### 6. Danceability & Energy:
+
+**Danceability:**  
+Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
+**Energy:** 
+Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy.
+
+![image](https://user-images.githubusercontent.com/65705774/121777383-5c1c3580-cbaf-11eb-8e8e-2b221359f48b.png)
+
+#### Conclusion : 
+In all the four decades the we can safely say that  nearly half or more percentage of danceable songs are high energetic songs. This trend can be especially seen in the early 2ks where almost 71.5 % danceable songs were so high on energy.
 
 
