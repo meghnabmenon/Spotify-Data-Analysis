@@ -49,7 +49,7 @@ We can clearly see that there is a very clear and gradual increase in the number
 
 #### 4. High Valence or Low Valence?
 
-Valence: 
+**Valence:** 
   A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
   
  ![image](https://user-images.githubusercontent.com/65705774/121776913-0e9ec900-cbad-11eb-848c-4125e395cfbc.png)
@@ -59,7 +59,7 @@ Valence:
  
 #### 5. Instrumentalism Vs Vocalness
 
-Instrumentalness :
+**Instrumentalness :**
 Predicts whether a track contains no vocals. The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no vocal content.
 
 ![image](https://user-images.githubusercontent.com/65705774/121777095-f24f5c00-cbad-11eb-9d47-59f83d7aa1bc.png)
