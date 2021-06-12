@@ -117,5 +117,10 @@ Loudness and Acousticness share a small negative correlation.
 #### Conclusion:
 Tempo and Energy share a very small positive correlation which can almost be neglected. 
 
+Note: 
+The results have been recorded from the outputs obtained after running the scala code. For visualising the analysed values, the plots are created in jupyter notebook.The part of the dataset obtained from kaggle that has been used for the analysis can be found using the following link:
+
+https://amritavishwavidyapeetham-my.sharepoint.com/:f:/g/personal/cb_en_u4aie19030_cb_students_amrita_edu/EiEqzaNHJy9DhwpXgrAEauQBT9mUd67CDI7waO6j7xmPpQ?e=V2umSY
+
 
 
