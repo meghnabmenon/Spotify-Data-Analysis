@@ -79,4 +79,15 @@ Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of inten
 #### Conclusion : 
 In all the four decades the we can safely say that  nearly half or more percentage of danceable songs are high energetic songs. This trend can be especially seen in the early 2ks where almost 71.5 % danceable songs were so high on energy.
 
+#### 7. Speechiness every 2 decades
+
+**Speechiness:**
+Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value.
+
+![image](https://user-images.githubusercontent.com/65705774/121777566-7276c100-cbb0-11eb-9ebb-5998aba349c4.png)
+
+#### Conclusion : 
+The number of songs with high speechiness is significantly high during the first two decades and it gradually decreases. This implies that podcasts was popular then than now
+
+
 
