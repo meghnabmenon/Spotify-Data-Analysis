@@ -89,5 +89,33 @@ Speechiness detects the presence of spoken words in a track. The more exclusivel
 #### Conclusion : 
 The number of songs with high speechiness is significantly high during the first two decades and it gradually decreases. This implies that podcasts was popular then than now
 
+#### 8. Correlation:
+Correlation is a statistic that measures the degree to which two variables move in relation to each other.
+
+**Pearson’s Correlation Coefficient formula:**
+
+![image](https://user-images.githubusercontent.com/65705774/121777686-0052ac00-cbb1-11eb-91e0-03f8e5788da6.png)
+
+##### 8.1 ENERGY AND LOUDNESS
+
+![image](https://user-images.githubusercontent.com/65705774/121777721-2d9f5a00-cbb1-11eb-8029-df094fcd5860.png)
+
+#### Conclusion:
+Loudness and Energy share a small positive correlation. 
+
+##### 8.2 ACOUSTICNESS AND LOUDNESS
+
+![image](https://user-images.githubusercontent.com/65705774/121777768-5d4e6200-cbb1-11eb-990a-042a0a721bea.png)
+
+#### Conclusion:
+Loudness and Acousticness share a small negative correlation. 
+
+##### 8.3 TEMPO AND ENERGY
+
+![image](https://user-images.githubusercontent.com/65705774/121777796-7fe07b00-cbb1-11eb-819c-6a0d409b7328.png)
+
+#### Conclusion:
+Tempo and Energy share a very small positive correlation which can almost be neglected. 
+
 
 
