@@ -47,4 +47,15 @@ It is observed that the popularity of the artists has slightly influenced the po
 #### Conclusion : 
 We can clearly see that there is a very clear and gradual increase in the number of songs that became popular as the decades progress. This can also mean that the number of Spotify listeners has grown significantly over the years.
 
+#### 4. High Valence or Low Valence?
+
+Valence: 
+  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+  
+ ![image](https://user-images.githubusercontent.com/65705774/121776913-0e9ec900-cbad-11eb-848c-4125e395cfbc.png)
+ 
+#### Conclusion : 
+ Notice that in most cases in each decade the songs with high valence is slightly more popular but in the case of the current 2ks it is very evident and the difference in the values are noticeable
+ 
+
 
